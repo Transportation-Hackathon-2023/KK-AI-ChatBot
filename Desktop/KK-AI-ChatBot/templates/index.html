@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot</title>
+</head>
+<body>
+
+    <div id="chat-box">
+        <!-- Chat messages will go here -->
+    </div>
+
+    <input id="user-input" type="text" placeholder="Type your message...">
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        function sendMessage() {
+            const userInput = document.getElementById('user-input').value;
+
+            // Send the user message to the Flask backend
+            fetch('/ask', {
+                method: 'POST',
+                body: new URLSearchParams({'user_message': userInput}),
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Append bot's response to chat box
+                document.getElementById('chat-box').innerHTML += `<p>Bot: ${data.bot_response}</p>`;
+            });
+
+            // Clear the user input field
+            document.getElementById('user-input').value = '';
+        }
+    </script>
+
+</body>
+</html>

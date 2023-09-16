@@ -1,0 +1,14 @@
+#chat-box {
+  width: 300px;
+  height: 400px;
+  border: 1px solid black;
+  overflow-y: auto;
+}
+
+#user-input {
+  width: 240px;
+}
+
+#send-button {
+  width: 50px;
+}

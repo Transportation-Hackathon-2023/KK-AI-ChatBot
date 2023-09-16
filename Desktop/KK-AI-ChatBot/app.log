@@ -1,0 +1,102 @@
+INFO:root:Starting the application.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 13:34:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 13:34:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 13:34:17] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 13:34:33] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application.
+INFO:root:Initializing database.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 14:45:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 14:45:52] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/MyHackathonProject/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application.
+INFO:root:Current Working Directory: /Users/kk/Desktop/MyHackathonProject
+INFO:root:Initializing database.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/MyHackathonProject/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application.
+INFO:root:Current Working Directory: /Users/kk/Desktop/MyHackathonProject
+INFO:root:Initializing database.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/MyHackathonProject/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/MyHackathonProject
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/MyHackathonProject/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/MyHackathonProject
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/MyHackathonProject
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/MyHackathonProject
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584

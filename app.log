@@ -100,3 +100,457 @@ INFO:root:Database connection closed.
 INFO:root:Starting Flask app.
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 534-616-547
+INFO:root:Rendering index page.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 16:16:57] "GET / HTTP/1.1" 200 -
+WARNING:root:404 error encountered.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 16:16:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:root:404 error encountered.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 16:17:04] "[33mPOST /ask HTTP/1.1[0m" 404 -
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 534-616-547
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/dart-sdk-darwin-arm64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/dart-sdk-darwin-arm64.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/dart-sdk-darwin-arm64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/dart-sdk-darwin-arm64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm-profile/darwin-x64.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm-profile/darwin-x64.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm-release/darwin-x64.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm-release/darwin-x64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm64/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm64/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm64-profile/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/android-arm64-profile/artifacts.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/ios-profile/artifacts.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/ios-release/artifacts.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter-web-sdk.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/sky_engine.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/sky_engine.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter_patched_sdk.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter_patched_sdk.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter_patched_sdk_product.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter_patched_sdk_product.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/sky_engine.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter_patched_sdk.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/flutter_patched_sdk_product.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-arm64/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64/FlutterMacOS.framework.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64/gen_snapshot.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64/gen_snapshot.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64-profile/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64-profile/artifacts.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64-release/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64-release/artifacts.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64-release/gen_snapshot.zip', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/flutter/bin/cache/downloads/storage.googleapis.com/flutter_infra_release/flutter/9064459a8b0dcd32877107f6002cc429a71659d1/darwin-x64-release/gen_snapshot.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Rendering index page.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 17:38:43] "GET / HTTP/1.1" 200 -
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/reconstructed_app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/reconstructed_app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/reconstructed_app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Current Working Directory: /Users/kk/Desktop/KK-AI-ChatBot
+INFO:root:Initializing database.
+INFO:root:Database initialized successfully.
+INFO:root:Database connection closed.
+INFO:root:Starting Flask app.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 18:26:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 18:26:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 18:26:57] "GET /test_db HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/reconstructed_app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Starting the application. Version: 0.1.5
+INFO:root:Initializing database
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 18:37:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:09:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:09:31] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:11:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:13:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:17:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:17:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:17:19] "POST / HTTP/1.1" 200 -

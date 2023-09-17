@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KK's AI ChatBot - v 0.9 - @WalksWithASwagger</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+ 
+ :root {
+      --chat-primary-color: #b5e52c;
+      --chat-secondary-color: #df50ae;
+      --chat-tertiary-color: #00ffe0;
+      --chat-background-color: #222222;
+      --chat-text-color: #FFFFFF;
+      --chat-header-font: "Poppins", sans-serif;
+      --chat-body-font: "Open Sans", sans-serif;
+    }
+    body {
+      font-family: var(--chat-body-font);
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-family: var(--chat-header-font);
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    #chatbox {
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      padding: 20px;
+    }
+    #userInput {
+      width: 80%;
+      padding: 15px;
+      border: none;
+      background-color: var(--chat-primary-color);
+      color: var(--chat-background-color);
+      margin: 20px;
+      border-radius: 0px;
+    }
+    #langSelect, #emergencyButton, #voiceButton, button {
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      padding: 10px;
+      margin: 5px;
+      border: 1px solid var(--chat-secondary-color);
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #defaultMessage {
+      font-weight: bold;
+    }
+
+    .typewriter {
+      overflow: hidden;
+      border-right: .15em solid orange;
+      white-space: nowrap;
+      animation: typing 2s steps(40, end), blink-caret .5s step-end infinite;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange; }
+    }
+
+
+    .typewriter {
+      overflow: hidden;
+      border-right: .15em solid orange;
+      white-space: nowrap;
+      animation: typing 3s steps(40, end), blink-caret .5s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+
+    @keyframes blink-caret {
+      from, to { border-color: transparent; }
+      50% { border-color: orange; }
+    }
+  </style>
+</head>
+<body>
+  <h1>
+    <a href="https://github.com/WalksWithASwagger" target="_blank">KK's AI ChatBot - v 0.9 - @WalksWithASwagger</a>
+  </h1>
+  <div id="chatbox">
+    <p id="defaultMessage" class="typewriter">You are near Hartford. There is a bus 4 miles from here. Next one leaves 4:20pm</p>
+    <!-- Chat messages will appear here -->
+  </div>
+  <input id="userInput" type="text" placeholder="Enter your message here">
+  <button onclick="sendMessage()">Send</button>
+  <div>
+    <button id="voiceButton" onclick="initVoiceAssistant()"><i class="fas fa-microphone"></i> Voice Assist</button>
+    <button id="emergencyButton" onclick="triggerEmergency()">Emergency</button>
+    <select id="langSelect">
+      <option value="en">English</option>
+      <option value="es">Español</option>
+      <option value="fr">Français</option>
+      <option value="de">Deutsch</option>
+      <option value="it">Italiano</option>
+      <option value="pt">Português</option>
+      <option value="zh">中文</option>
+      <option value="ja">日本語</option>
+      <option value="ru">Русский</option>
+      <option value="ar">العربية</option>
+    </select>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+  <script>
+    const socket = io.connect('http://localhost:5000');
+
+    function triggerEmergency() {
+      // Emergency logic here
+    }
+
+    function initVoiceAssistant() {
+      // Voice assistant logic here
+    }
+
+    function sendMessage() {
+      const message = document.getElementById("userInput").value;
+      const p = document.createElement('p');
+      p.className = 'user typewriter';
+      p.textContent = `You: ${message}`;
+      document.getElementById("chatbox").appendChild(p);
+      socket.emit('send_message', message);
+      document.getElementById("userInput").value = '';
+    }
+
+    socket.on('receive_message', function(data) {
+      const p = document.createElement('p');
+      p.className = 'chatbot typewriter';
+      p.textContent = `EASTCONN TransitBot: ${data}`;
+      document.getElementById("chatbox").appendChild(p);
+    });
+
+    document.getElementById("userInput").addEventListener("keydown", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        sendMessage();
+      }
+    });
+  </script>
+</body>
+</html>

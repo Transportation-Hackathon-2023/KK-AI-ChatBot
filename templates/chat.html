@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KK's AI ChatBot - v 0.9 - @WalksWithASwagger</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    /* Your existing styles are here */
+    :root {
+      --chat-primary-color: #b5e52c;
+      --chat-secondary-color: #df50ae;
+      --chat-tertiary-color: #00ffe0;
+      --chat-background-color: #222222;
+      --chat-text-color: #FFFFFF;
+      --chat-text2-color: #040000;
+      --chat-header-font: "Poppins", sans-serif;
+      --chat-body-font: "Open Sans", sans-serif;
+    }
+    body {
+      font-family: var(--chat-body-font);
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-family: var(--chat-header-font);
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    #chatbox {
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      padding: 20px;
+    }
+    .user, .chatbot {
+      white-space: pre-wrap;
+    }
+    .user {
+      background-color: var(--chat-tertiary-color);
+      color: var(--chat-text2-color);
+      padding: 10px;
+      margin: 5px;
+      border-radius: 5px;
+    }
+    .chatbot {
+      background-color: var(--chat-secondary-color);
+      padding: 10px;
+      margin: 5px;
+      border-radius: 5px;
+    }
+    #userInput {
+      width: 80%;
+      padding: 15px;
+      border: none;
+      background-color: var(--chat-primary-color);
+      color: var(--chat-background-color);
+      margin: 20px;
+      border-radius: 0px;
+    }
+    #langSelect, #emergencyButton, #voiceButton, button {
+      background-color: var(--chat-background-color);
+      color: var(--chat-text-color);
+      padding: 10px;
+      margin: 5px;
+      border: 1px solid var(--chat-secondary-color);
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #defaultMessage {
+      font-weight: bold;
+    }
+  </style>
+  <script>
+    let userMsgIndex = 0;
+    let chatbotMsgIndex = 0;
+    let chatbotElement;  // New variable to hold the chatbot message element
+    
+    function typeUserMessage() {
+      const msg = "You are near Hartford. There is a bus 4 miles from here. Next one leaves 4:20pm";
+      const ele = document.getElementById("defaultMessage");
+      if (userMsgIndex < msg.length) {
+        ele.textContent += msg.charAt(userMsgIndex);
+        userMsgIndex++;
+        setTimeout(typeUserMessage, 50);
+      }
+    }
+    
+    function typeChatbotMessage(data) {
+  if (chatbotMsgIndex === 0) {
+    chatbotElement = document.createElement('p');
+    chatbotElement.className = 'chatbot';
+    chatbotElement.textContent = 'EASTCONN TransitBot: ';  // Prepend the bot name here
+    document.getElementById("chatbox").appendChild(chatbotElement);
+  }
+
+  if (chatbotMsgIndex < data.length) {
+    chatbotElement.textContent += data.charAt(chatbotMsgIndex);
+    chatbotMsgIndex++;
+    setTimeout(() => typeChatbotMessage(data), 50);
+  } else {
+    chatbotMsgIndex = 0;
+  }
+}
+
+  </script>
+</head>
+<body onload="typeUserMessage()">
+  <h1>KK's AI ChatBot - v 0.9 - @WalksWithASwagger</h1>
+  <div id="chatbox">
+    <p id="defaultMessage"></p>
+  </div>
+  <input id="userInput" type="text" placeholder="Enter your message here">
+  <button onclick="sendMessage()">Send</button>
+  <div>
+    <button id="voiceButton" onclick="initVoiceAssistant()"><i class="fas fa-microphone"></i> Voice Assist</button>
+    <button id="emergencyButton" onclick="triggerEmergency()">Emergency</button>
+    <select id="langSelect">
+      <option value="en">English</option>
+      <option value="es">Español</option>
+      <option value="fr">Français</option>
+      <option value="de">Deutsch</option>
+      <option value="it">Italiano</option>
+      <option value="pt">Português</option>
+      <option value="zh">中文</option>
+      <option value="ja">日本語</option>
+      <option value="ru">Русский</option>
+      <option value="ar">العربية</option>
+    </select>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+  <script>
+    const socket = io.connect('http://localhost:5000');
+
+    function triggerEmergency() {
+      // Emergency logic here
+    }
+
+    function initVoiceAssistant() {
+      // Voice assistant logic here
+    }
+
+    function sendMessage() {
+      const message = document.getElementById("userInput").value;
+      const p = document.createElement('p');
+      p.className = 'user';
+      p.textContent = `You: ${message}`;
+      document.getElementById("chatbox").appendChild(p);
+      socket.emit('send_message', message);
+      document.getElementById("userInput").value = '';
+    }
+
+    socket.on('receive_message', function(data) {
+      typeChatbotMessage(data);
+    });
+
+    document.getElementById("userInput").addEventListener("keydown", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        sendMessage();
+      }
+    });
+  </script>
+</body>
+</html>

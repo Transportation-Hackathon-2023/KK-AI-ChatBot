@@ -554,3 +554,1216 @@ INFO:werkzeug: * Debugger PIN: 791-104-584
 INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:17:15] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:17:16] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:17:19] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:37:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:50:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:50:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:50:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:50:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:50:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:58:35] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: want a snack?
+INFO:root:Generated text: I'm not really sure what you're asking.
+INFO:root:Returning chatbot response: I'm not really sure what you're asking.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:58:42] "POST / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:58:49] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: what time is it?
+INFO:root:Generated text: Right now, it is 11:19 AM.
+INFO:root:Returning chatbot response: Right now, it is 11:19 AM.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:58:54] "POST / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:59:01] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: what is eastconn?
+INFO:root:Generated text: EastConn is a regional educational service center in northeastern Connecticut.
+INFO:root:Returning chatbot response: EastConn is a regional educational service center in northeastern Connecticut.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 19:59:09] "POST / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:20:05] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: should i ride the bus?
+INFO:root:Generated text: It depends.
+INFO:root:Returning chatbot response: It depends.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:20:14] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_abnf.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_abnf.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_connection.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_connection.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_events.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_events.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_headers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_headers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_readers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_readers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_receivebuffer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_receivebuffer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_state.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_state.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_util.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_util.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_version.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_version.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_writers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/_writers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_against_stdlib_http.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_against_stdlib_http.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_connection.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_connection.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_events.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_events.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_headers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_headers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_io.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_io.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_receivebuffer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_receivebuffer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_state.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_state.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_util.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/h11/tests/test_util.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_abc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_abc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_base.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_base.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_bidict.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_bidict.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_dup.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_dup.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_exc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_exc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_frozenbidict.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_frozenbidict.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_frozenordered.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_frozenordered.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_iter.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_iter.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_named.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_named.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_orderedbase.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_orderedbase.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_orderedbidict.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_orderedbidict.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_typing.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/_typing.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/metadata.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/bidict/metadata.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/connection.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/connection.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/events.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/events.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/extensions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/extensions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/frame_protocol.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/frame_protocol.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/handshake.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/handshake.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/typing.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/typing.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/utilities.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/wsproto/utilities.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/simple_websocket/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/simple_websocket/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/simple_websocket/ws.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/simple_websocket/ws.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/asyncio_client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/asyncio_client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/asyncio_server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/asyncio_server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/asyncio_socket.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/asyncio_socket.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/exceptions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/exceptions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/json.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/json.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/middleware.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/middleware.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/packet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/packet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/payload.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/payload.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/socket.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/socket.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/static_files.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/static_files.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/_websocket_wsgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/_websocket_wsgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/aiohttp.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/aiohttp.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/asgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/asgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/eventlet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/eventlet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/gevent.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/gevent.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/gevent_uwsgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/gevent_uwsgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/sanic.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/sanic.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/threading.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/threading.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/tornado.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/engineio/async_drivers/tornado.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asgi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_aiopika_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_aiopika_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_namespace.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_namespace.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_pubsub_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_pubsub_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_redis_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_redis_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/asyncio_server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/base_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/base_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/exceptions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/exceptions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/kafka_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/kafka_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/kombu_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/kombu_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/middleware.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/middleware.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/msgpack_packet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/msgpack_packet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/namespace.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/namespace.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/packet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/packet.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/pubsub_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/pubsub_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/redis_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/redis_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/server.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/tornado.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/tornado.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/zmq_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/socketio/zmq_manager.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/flask_socketio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/flask_socketio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/flask_socketio/namespace.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/flask_socketio/namespace.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/flask_socketio/test_client.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/anaconda3/lib/python3.11/site-packages/flask_socketio/test_client.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:31:40] "GET / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:31:42] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: 40 amp fuse
+INFO:root:Generated text: in a 30 amp circuit. The otherholders are rated for at least 2 circuits. The switch to the tarp motor and the 4-wire plug to the adapter were damaged when I accidently ran into a covered culvert with the driver's side door. When the insulated conduit coverhaired I saw a flash and I smelled "Burning Plastic" inside the trailer. I was just lucky not to be in here at the time. When I went briefly to the vacation lot earlier this faithful day and
+INFO:root:Returning chatbot response: in a 30 amp circuit. The otherholders are rated for at least 2 circuits. The switch to the tarp motor and the 4-wire plug to the adapter were damaged when I accidently ran into a covered culvert with the driver's side door. When the insulated conduit coverhaired I saw a flash and I smelled "Burning Plastic" inside the trailer. I was just lucky not to be in here at the time. When I went briefly to the vacation lot earlier this faithful day and
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:31:48] "POST / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:31:59] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: where can i take the bus in connecticut?
+INFO:root:Generated text: I'm not sure exactly what you are asking, but the Connecticut Transit website has a trip planner that might be helpful: http://www.cttransit.com/about/trip-planning
+INFO:root:Returning chatbot response: I'm not sure exactly what you are asking, but the Connecticut Transit website has a trip planner that might be helpful: http://www.cttransit.com/about/trip-planning
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:32:11] "POST / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:33:45] "GET / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:33:46] "GET / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:33:46] "GET / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:33:48] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: whats a timbit?
+INFO:root:Generated text: A Timbit is a small donut hole that is sold by the Tim Hortons coffee chain.
+INFO:root:Returning chatbot response: A Timbit is a small donut hole that is sold by the Tim Hortons coffee chain.
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:33:56] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:55:26] "GET / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:55:28] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: Key largo
+INFO:root:Generated text: reef adventures groupon
+
+also features tour companies around Key Largo, making adventure planning a snap. Why not save on your next Key West vacation with Key West Tour Deals? About Key West Tour Deals, connect with help kohls deals us on: Meet the Team, ryan Thomas. Today, lush rain forests, pristine waters and crisp sunshine attract immigrants from all over the world, combining to create the truly unique atmosphere that symbolizes Key West. If you feel hungry after gazing at dB
+INFO:root:Returning chatbot response: reef adventures groupon
+
+also features tour companies around Key Largo, making adventure planning a snap. Why not save on your next Key West vacation with Key West Tour Deals? About Key West Tour Deals, connect with help kohls deals us on: Meet the Team, ryan Thomas. Today, lush rain forests, pristine waters and crisp sunshine attract immigrants from all over the world, combining to create the truly unique atmosphere that symbolizes Key West. If you feel hungry after gazing at dB
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 20:55:34] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-534-832
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 21:07:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 21:07:28] "GET /chat HTTP/1.1" 200 -
+INFO:root:Received query: what does ari mean?
+INFO:root:Generated text: There is no one definitive answer to this question as the meaning of the name Ari depends on its origin. However, some possible origins and meanings for the name Ari include Hebrew meaning "lion of God" or "hero," Greek meaning "best," or Finnish meaning "noble."
+INFO:root:Returning chatbot response: There is no one definitive answer to this question as the meaning of the name Ari depends on its origin. However, some possible origins and meanings for the name Ari include Hebrew meaning "lion of God" or "hero," Greek meaning "best," or Finnish meaning "noble."
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2023 21:09:20] "POST / HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:49:22] "GET / HTTP/1.1" 200 -
+ERROR:root:404 error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:49:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:49:36] "GET / HTTP/1.1" 200 -
+INFO:root:Initializing database...
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:29] "GET / HTTP/1.1" 200 -
+ERROR:root:404 error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:40] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:40] "GET /socket.io/?EIO=4&transport=polling&t=OgZCbay HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:40] "POST /socket.io/?EIO=4&transport=polling&t=OgZCbbB&sid=o6sLMChjKmxeK8SOAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:40] "GET /socket.io/?EIO=4&transport=polling&t=OgZCbbB.0&sid=o6sLMChjKmxeK8SOAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:40] "GET /socket.io/?EIO=4&transport=polling&t=OgZCbbb&sid=o6sLMChjKmxeK8SOAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:40] "GET /socket.io/?EIO=4&transport=polling&t=OgZCbcY&sid=o6sLMChjKmxeK8SOAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:51:41] "GET /socket.io/?EIO=4&transport=websocket&sid=o6sLMChjKmxeK8SOAAAA HTTP/1.1" 200 -
+INFO:root:Received query: where is my bus?
+INFO:root:Generated text: I do not know.
+INFO:root:Returning chatbot response: I do not know.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:57:12] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:57:36] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:57:36] "GET /socket.io/?EIO=4&transport=polling&t=OgZDyRt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:57:36] "POST /socket.io/?EIO=4&transport=polling&t=OgZDyRz&sid=OrFQmDaXnCt7Xy5iAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:57:36] "GET /socket.io/?EIO=4&transport=polling&t=OgZDyR-&sid=OrFQmDaXnCt7Xy5iAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 08:57:36] "GET /socket.io/?EIO=4&transport=polling&t=OgZDyS7&sid=OrFQmDaXnCt7Xy5iAAAC HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:15] "GET /socket.io/?EIO=4&transport=polling&t=OgZJ7oj HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:15] "POST /socket.io/?EIO=4&transport=polling&t=OgZJ8BA&sid=XCxvc7uvsD2KDm9oAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:15] "GET /socket.io/?EIO=4&transport=polling&t=OgZJ8BC&sid=XCxvc7uvsD2KDm9oAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:15] "GET /socket.io/?EIO=4&transport=polling&t=OgZJ8BG&sid=XCxvc7uvsD2KDm9oAAAA HTTP/1.1" 200 -
+INFO:root:GET request, showing form
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:19] "GET / HTTP/1.1" 200 -
+INFO:root:Received query: are buses usually on time?
+INFO:openai:error_code=invalid_api_key error_message='Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+ERROR:root:Error in simple_chatbot: Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.
+INFO:root:Returning chatbot response: An error occurred.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:34] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:43] "GET /chat HTTP/1.1" 200 -
+ERROR:engineio.server:http://127.0.0.1:5000 is not an accepted origin. (further occurrences of this error will be logged with level INFO)
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:44] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJFGo HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:45] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJFcq HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:47] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJG5l HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:50] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJGxc HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:20:55] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJI9w HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:00] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJJOA HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:06] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJKdK HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:11] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJLrl HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:16] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJN48 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:21] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJOIV HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:26] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJPc3 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:27] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJPp- HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:28] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJQCl HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJRFK HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJSTd HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:43] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJTh_ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:48] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJUwO HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:53] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJW8f HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:21:58] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJXN6 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:03] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJYbV HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:08] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJZps HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:13] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJb2G HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:18] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJcGZ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:23] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJdV0 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:28] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJejN HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJfxm HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJhA8 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:43] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJiOW HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:48] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJjct HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:53] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJkrF HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:22:58] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJm3e HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:03] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJnHy HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:08] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJoWM HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:13] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJpkj HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:18] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJqz0 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:23] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJsBK HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:28] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJtPk HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:33] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJue7 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:23:38] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZJvsQ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:24:55] "GET /socket.io/?EIO=4&transport=websocket&sid=XCxvc7uvsD2KDm9oAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:24:55] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:24:55] "GET /socket.io/?EIO=4&transport=polling&t=OgZKCjz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:24:55] "POST /socket.io/?EIO=4&transport=polling&t=OgZKCk9&sid=EJ_rzo7Dh48LPYnbAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:24:55] "GET /socket.io/?EIO=4&transport=polling&t=OgZKCkA&sid=EJ_rzo7Dh48LPYnbAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:24:55] "GET /socket.io/?EIO=4&transport=polling&t=OgZKCkS&sid=EJ_rzo7Dh48LPYnbAAAC HTTP/1.1" 200 -
+INFO:root:Received message: HELLO
+INFO:root:Received query: HELLO
+INFO:openai:error_code=invalid_api_key error_message='Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+ERROR:root:Error in simple_chatbot: Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.
+INFO:root:Received message: THIS IS AN IMPROVMENT
+INFO:root:Received query: THIS IS AN IMPROVMENT
+INFO:openai:error_code=invalid_api_key error_message='Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+ERROR:root:Error in simple_chatbot: Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:32:49] "GET /socket.io/?EIO=4&transport=polling&t=OgZL_u2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:32:49] "POST /socket.io/?EIO=4&transport=polling&t=OgZM0OB&sid=Nwb2ldsywMVjCoutAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:32:49] "GET /socket.io/?EIO=4&transport=polling&t=OgZM0OD&sid=Nwb2ldsywMVjCoutAAAA HTTP/1.1" 200 -
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZM60Q HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:12] "POST /socket.io/?EIO=4&transport=polling&t=OgZM60x&sid=Qx0liet2dGl_soUHAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZM60y&sid=Qx0liet2dGl_soUHAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZM613&sid=Qx0liet2dGl_soUHAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:14] "GET /socket.io/?EIO=4&transport=websocket&sid=Qx0liet2dGl_soUHAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:14] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:14] "GET /socket.io/?EIO=4&transport=polling&t=OgZM6N- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:14] "POST /socket.io/?EIO=4&transport=polling&t=OgZM6O8&sid=5XdrTdbu08vmmLlvAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:14] "GET /socket.io/?EIO=4&transport=polling&t=OgZM6O9&sid=5XdrTdbu08vmmLlvAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:33:14] "GET /socket.io/?EIO=4&transport=polling&t=OgZM6OP&sid=5XdrTdbu08vmmLlvAAAC HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus?
+INFO:root:Received query: what time is the next bus?
+INFO:root:Generated text: The next bus is at 10:00am.
+INFO:root:Received message: and what time is the one after that?
+INFO:root:Received query: and what time is the one after that?
+INFO:root:Generated text: 10:45
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:38:57] "GET /socket.io/?EIO=4&transport=websocket&sid=5XdrTdbu08vmmLlvAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:38:57] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:38:57] "GET /socket.io/?EIO=4&transport=polling&t=OgZNQD9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:38:57] "POST /socket.io/?EIO=4&transport=polling&t=OgZNQDM&sid=dKm2atgdfb9xcQd1AAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:38:57] "GET /socket.io/?EIO=4&transport=polling&t=OgZNQDN&sid=dKm2atgdfb9xcQd1AAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:38:57] "GET /socket.io/?EIO=4&transport=polling&t=OgZNQDY&sid=dKm2atgdfb9xcQd1AAAE HTTP/1.1" 200 -
+INFO:root:Received message: does this work?
+INFO:root:Received query: does this work?
+INFO:root:Generated text: It's difficult to say without more context. It could work, but it could also not work depending on the situation.
+INFO:root:Received message: can you tell me what time the next bus comes?
+INFO:root:Received query: can you tell me what time the next bus comes?
+INFO:root:Generated text: I can not tell you when the next bus will come.
+INFO:root:Received message: waa imisa saac baska xiga?
+INFO:root:Received query: waa imisa saac baska xiga?
+INFO:root:Generated text: - Maxaa kala duwan 100km iyo 1km ?- Yaa ka fiican jimicsi ama kaniinadi?- Yaa taa badan dadka isticmaala?- Forumkan yaa laatay?- madaama aanu nahay soomaali ma ku c isol sugno lanagu?- Shirkadihan gawaadheen waad salaamantihiin- Maana
+INFO:root:Received message: can i ask you questions in punjabi?
+INFO:root:Received query: can i ask you questions in punjabi?
+INFO:root:Generated text: Sure!
+INFO:root:Received message: give me today's bus schedule in spanish....
+INFO:root:Received query: give me today's bus schedule in spanish....
+INFO:root:Generated text: No dispongo de esa información.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:51:36] "GET /socket.io/?EIO=4&transport=websocket&sid=dKm2atgdfb9xcQd1AAAE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:51:36] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:51:36] "GET /socket.io/?EIO=4&transport=polling&t=OgZQJY- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:51:36] "POST /socket.io/?EIO=4&transport=polling&t=OgZQJZ9&sid=_wp_7tas4zUzSrD1AAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:51:36] "GET /socket.io/?EIO=4&transport=polling&t=OgZQJZA&sid=_wp_7tas4zUzSrD1AAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:51:36] "GET /socket.io/?EIO=4&transport=polling&t=OgZQJZS&sid=_wp_7tas4zUzSrD1AAAG HTTP/1.1" 200 -
+INFO:root:Received message: should i take the bus or train to hartford?
+INFO:root:Received query: should i take the bus or train to hartford?
+INFO:root:Generated text: The bus.
+INFO:root:Received message: will it be on time?
+INFO:root:Received query: will it be on time?
+INFO:root:Generated text: The train is scheduled to arrive at 2:15 PM.
+INFO:root:Received message: and what if i miss that one?
+INFO:root:Received query: and what if i miss that one?
+INFO:root:Generated text: If you miss that one, you'll have to wait until the next one comes along.
+ERROR:engineio.server:null is not an accepted origin. (further occurrences of this error will be logged with level INFO)
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:57:55] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZRm3t HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:57:56] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZRmDd HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:57:57] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZRmVC HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:57:59] "[31m[1mGET /socket.io/?EIO=4&transport=polling&t=OgZRn8N HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:58:27] "GET /socket.io/?EIO=4&transport=websocket&sid=_wp_7tas4zUzSrD1AAAG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:58:27] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:58:27] "GET /socket.io/?EIO=4&transport=polling&t=OgZRtoq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:58:27] "POST /socket.io/?EIO=4&transport=polling&t=OgZRto_&sid=4gLLErO0WTZU5p3UAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:58:27] "GET /socket.io/?EIO=4&transport=polling&t=OgZRtp0&sid=4gLLErO0WTZU5p3UAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 09:58:27] "GET /socket.io/?EIO=4&transport=polling&t=OgZRtpI&sid=4gLLErO0WTZU5p3UAAAI HTTP/1.1" 200 -
+INFO:root:Received message: what else should this transportation chatbot do?
+INFO:root:Received query: what else should this transportation chatbot do?
+INFO:root:Generated text: Assuming you are referring to the chatbot's functionality, other possible features could include the following:
+
+- Allowing users to input their current location and destination in order to receive estimated travel times and directions
+- Suggesting alternative routes or transportation options based on real-time traffic conditions
+- Providing cost estimates for various transportation options
+- Alerting users to delays or disruptions on their selected route
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:24:00] "GET /socket.io/?EIO=4&transport=websocket&sid=4gLLErO0WTZU5p3UAAAI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:24:00] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:24:00] "GET /socket.io/?EIO=4&transport=polling&t=OgZXk9u HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:24:00] "POST /socket.io/?EIO=4&transport=polling&t=OgZXkA6&sid=LzmDtwHjbkl0YODQAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:24:00] "GET /socket.io/?EIO=4&transport=polling&t=OgZXkA6.0&sid=LzmDtwHjbkl0YODQAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:24:00] "GET /socket.io/?EIO=4&transport=polling&t=OgZXkAK&sid=LzmDtwHjbkl0YODQAAAK HTTP/1.1" 200 -
+INFO:root:Received message: testing testing 1 2
+INFO:root:Received query: testing testing 1 2
+INFO:root:Generated text: 3' Now, if we issue the command $ ls , we should be able to see that a data directory has been created and in it is an executable called teststorage : $ ls -lh data -rwxrwxr-x 1 fred fred 23K Oct 8 12:23 teststorage $ ./data/teststorage --------------------------Finished Running='testing 1 2 3'-------------------------------------------------- --------------------------
+
+This concludes the introduction to BASH scripting. We are now
+INFO:root:Received message: i think i prefer the look of the other one
+INFO:root:Received query: i think i prefer the look of the other one
+INFO:root:Generated text: , but unless you can make them with the same or even better quality for a lower price i will buy the other brand
+
+Did you find this helpful? 4 of 4 Found Helpful
+
+milo
+
+5
+
+Reviewed by:from las vegas. on 6/30/2016
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:25:29] "GET /socket.io/?EIO=4&transport=websocket&sid=LzmDtwHjbkl0YODQAAAK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:25:29] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:25:29] "GET /socket.io/?EIO=4&transport=polling&t=OgZY3nP HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:25:29] "POST /socket.io/?EIO=4&transport=polling&t=OgZY3nb&sid=vyBtvN0vQvzWjsEsAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:25:29] "GET /socket.io/?EIO=4&transport=polling&t=OgZY3nc&sid=vyBtvN0vQvzWjsEsAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:25:29] "GET /socket.io/?EIO=4&transport=polling&t=OgZY3nk&sid=vyBtvN0vQvzWjsEsAAAM HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus coming?
+INFO:root:Received query: what time is the next bus coming?
+INFO:root:Generated text: The next bus is coming at 4:00 pm.
+INFO:root:Received message: and what if i miss that one?
+INFO:root:Received query: and what if i miss that one?
+INFO:root:Generated text: There's always another opportunity.
+INFO:root:Received message: is there another one after that?
+INFO:root:Received query: is there another one after that?
+INFO:root:Generated text: No, that is the final book in the Harry Potter series.
+INFO:root:Received message: what languages can i ask you transit questions in?
+INFO:root:Received query: what languages can i ask you transit questions in?
+INFO:root:Generated text: We can provide customer service in many languages.
+INFO:root:Received message: espanol?
+INFO:root:Received query: espanol?
+INFO:root:Generated text: Aprenda getiop CAPITULO 3. espanol amor section, also will go over all the parts that make up a letter.
+
+I wanted to keep it small in case you wanted to share it with your class in advance. You can pick from two digital grado files:.
+
+I strongly recommend that you create a FREE Google Classroom student account and use Speekee in class and to support their Mail in Spanish course.
+
+Grade 8 spanish
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:36:21] "GET /socket.io/?EIO=4&transport=websocket&sid=vyBtvN0vQvzWjsEsAAAM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:36:21] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:36:22] "GET /socket.io/?EIO=4&transport=polling&t=OgZaZAx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:36:22] "POST /socket.io/?EIO=4&transport=polling&t=OgZaZB8&sid=pYxdmWyA0wfVUv2EAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:36:22] "GET /socket.io/?EIO=4&transport=polling&t=OgZaZB9&sid=pYxdmWyA0wfVUv2EAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:36:22] "GET /socket.io/?EIO=4&transport=polling&t=OgZaZBK&sid=pYxdmWyA0wfVUv2EAAAO HTTP/1.1" 200 -
+INFO:root:Received message: what are the best transit options around here?
+INFO:root:Received query: what are the best transit options around here?
+INFO:root:Generated text: There is no one-size-fits-all answer to this question, as the best type of transit for a given area will vary depending on the specific location and surrounding infrastructure. However, some common transit options that may be available in many areas include buses, trains, subways, trams, and bicycles.
+INFO:root:Received message: should i walk or take the bus?
+INFO:root:Received query: should i walk or take the bus?
+INFO:root:Generated text: It depends. If you are going a short distance, it may be quicker to walk. If you are going a long distance or it is hot outside, you may want to take the bus.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:39:59] "GET /socket.io/?EIO=4&transport=websocket&sid=pYxdmWyA0wfVUv2EAAAO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:39:59] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:39:59] "GET /socket.io/?EIO=4&transport=polling&t=OgZbOCK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:39:59] "POST /socket.io/?EIO=4&transport=polling&t=OgZbOCY&sid=2FjW-WwaqoriWiDXAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:39:59] "GET /socket.io/?EIO=4&transport=polling&t=OgZbOCZ&sid=2FjW-WwaqoriWiDXAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:39:59] "GET /socket.io/?EIO=4&transport=polling&t=OgZbOCn&sid=2FjW-WwaqoriWiDXAAAQ HTTP/1.1" 200 -
+INFO:root:Received message: OK THIS LOOKS GOOD. 
+INFO:root:Received query: OK THIS LOOKS GOOD. 
+INFO:root:Generated text: It hasnsics, which isn't something I deal with normally.  The discrepancies are interesting, and based on what I've seen, there's enough there to suggest an inconsistency between the two stories.
+The [briefing document] is mostly accurate, though it does contain some omissions and misinformation.
+
+For example, the part about the victim's body being moved is correct, but the document doesn't mention that the body was moved twice. It also leaves out the fact that the
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:46:40] "GET /socket.io/?EIO=4&transport=websocket&sid=2FjW-WwaqoriWiDXAAAQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:46:40] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:46:40] "GET /socket.io/?EIO=4&transport=polling&t=OgZcw8R HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:46:40] "POST /socket.io/?EIO=4&transport=polling&t=OgZcw8c&sid=MTcfdCsS_oCTsiO0AAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:46:40] "GET /socket.io/?EIO=4&transport=polling&t=OgZcw8d&sid=MTcfdCsS_oCTsiO0AAAS HTTP/1.1" 200 -
+INFO:root:Received message: are there any buses near me?
+INFO:root:Received query: are there any buses near me?
+INFO:root:Generated text: Yes.
+INFO:root:Received message: what time does the next one come?
+INFO:root:Received query: what time does the next one come?
+INFO:root:Generated text: The next bus will come at 10:15.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:55:59] "GET /socket.io/?EIO=4&transport=websocket&sid=MTcfdCsS_oCTsiO0AAAS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:55:59] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:56:00] "GET /socket.io/?EIO=4&transport=polling&t=OgZf2mb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:56:00] "POST /socket.io/?EIO=4&transport=polling&t=OgZf2mq&sid=b7I8v6etcXpjGz-sAAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:56:00] "GET /socket.io/?EIO=4&transport=polling&t=OgZf2mq.0&sid=b7I8v6etcXpjGz-sAAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:56:00] "GET /socket.io/?EIO=4&transport=polling&t=OgZf2nE&sid=b7I8v6etcXpjGz-sAAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:59:08] "GET /socket.io/?EIO=4&transport=websocket&sid=b7I8v6etcXpjGz-sAAAU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:59:08] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:59:08] "GET /socket.io/?EIO=4&transport=polling&t=OgZfmuL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:59:08] "POST /socket.io/?EIO=4&transport=polling&t=OgZfmuX&sid=HXvAMZZXJ97bk_XeAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 10:59:08] "GET /socket.io/?EIO=4&transport=polling&t=OgZfmuY&sid=HXvAMZZXJ97bk_XeAAAW HTTP/1.1" 200 -
+INFO:root:Received message: thanks. and when is one after that?
+INFO:root:Received query: thanks. and when is one after that?
+INFO:root:Generated text: A:
+
+The nearest one is in seven days, on February 27th.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:03:07] "GET /socket.io/?EIO=4&transport=websocket&sid=HXvAMZZXJ97bk_XeAAAW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:03:07] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:03:07] "GET /socket.io/?EIO=4&transport=polling&t=OgZgh3z HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:03:07] "POST /socket.io/?EIO=4&transport=polling&t=OgZgh49&sid=yNe8j-6fHetPipq-AAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:03:07] "GET /socket.io/?EIO=4&transport=polling&t=OgZgh4A&sid=yNe8j-6fHetPipq-AAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:03:07] "GET /socket.io/?EIO=4&transport=polling&t=OgZgh4K&sid=yNe8j-6fHetPipq-AAAY HTTP/1.1" 200 -
+INFO:root:Received message: ok that's helpful. what if i miss that one?
+INFO:root:Received query: ok that's helpful. what if i miss that one?
+INFO:root:Generated text: >> well, charlie, we'll go back and do it again. let's bring in chrisangus. res
+
+News Al Jazeera America May 10, 2014 8:00am EDT this and we have to see exactly how far the anyone is prepared to go? you have a special forces team headed there. what exactly do you think america's role should be. >>> america's role in this right now is what is it, chris. bolivia wants a little help
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:37] "GET /socket.io/?EIO=4&transport=websocket&sid=yNe8j-6fHetPipq-AAAY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:37] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:37] "GET /socket.io/?EIO=4&transport=polling&t=OgZhUVl HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:37] "POST /socket.io/?EIO=4&transport=polling&t=OgZhUVx&sid=zDv-UH5UfED02TkXAAAa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:37] "GET /socket.io/?EIO=4&transport=polling&t=OgZhUVy&sid=zDv-UH5UfED02TkXAAAa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:37] "GET /socket.io/?EIO=4&transport=polling&t=OgZhUW5&sid=zDv-UH5UfED02TkXAAAa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:44] "GET /socket.io/?EIO=4&transport=websocket&sid=zDv-UH5UfED02TkXAAAa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:44] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:44] "GET /socket.io/?EIO=4&transport=polling&t=OgZhWBz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:44] "POST /socket.io/?EIO=4&transport=polling&t=OgZhWC2&sid=G_wTRD4wczIlmLnWAAAc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:44] "GET /socket.io/?EIO=4&transport=polling&t=OgZhWC4&sid=G_wTRD4wczIlmLnWAAAc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:44] "GET /socket.io/?EIO=4&transport=polling&t=OgZhWCA&sid=G_wTRD4wczIlmLnWAAAc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:47] "GET /socket.io/?EIO=4&transport=websocket&sid=G_wTRD4wczIlmLnWAAAc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:47] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OgZhWoe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:47] "POST /socket.io/?EIO=4&transport=polling&t=OgZhWom&sid=0VceGyyQurUPZcC5AAAe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OgZhWon&sid=0VceGyyQurUPZcC5AAAe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OgZhWot&sid=0VceGyyQurUPZcC5AAAe HTTP/1.1" 200 -
+INFO:root:Received message: what if i miss that bus?
+INFO:root:Received query: what if i miss that bus?
+INFO:root:Generated text: If you miss that bus, another one will come along in a few minutes.
+INFO:root:Received message: 
+INFO:root:Received query: 
+INFO:root:Generated text: hamid yosfi
+
+Publish Date: 17 Oct 2017 04:34:14 | Contact name: lisaesbit | Location: USA | Place: new york | 1 times displayed |
+
+More Detail:-
+
+naturalxpremiumcbd@gmail.com
+
+8443254125
+
+
+
+
+
+While the groin is most likely the area that is sexiest andiona muscles on the body of a man, many do not have knowledge of muscle really actually
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:07:34] "GET /socket.io/?EIO=4&transport=websocket&sid=0VceGyyQurUPZcC5AAAe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:07:34] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:07:34] "GET /socket.io/?EIO=4&transport=polling&t=OgZhiIs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:07:34] "POST /socket.io/?EIO=4&transport=polling&t=OgZhiJ2&sid=i_09YvKwzf0_xqISAAAg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:07:34] "GET /socket.io/?EIO=4&transport=polling&t=OgZhiJ3&sid=i_09YvKwzf0_xqISAAAg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:07:34] "GET /socket.io/?EIO=4&transport=polling&t=OgZhiJF&sid=i_09YvKwzf0_xqISAAAg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:10:33] "GET /socket.io/?EIO=4&transport=websocket&sid=i_09YvKwzf0_xqISAAAg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:10:33] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:10:33] "GET /socket.io/?EIO=4&transport=polling&t=OgZiNxz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:10:33] "POST /socket.io/?EIO=4&transport=polling&t=OgZiNy8&sid=CxsTexDbafK8YbiEAAAi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:10:33] "GET /socket.io/?EIO=4&transport=polling&t=OgZiNy9&sid=CxsTexDbafK8YbiEAAAi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:10:33] "GET /socket.io/?EIO=4&transport=polling&t=OgZiNyJ&sid=CxsTexDbafK8YbiEAAAi HTTP/1.1" 200 -
+INFO:root:Received message: what if i miss that bus?
+INFO:root:Received query: what if i miss that bus?
+INFO:root:Generated text: If you miss that bus, you may have to wait for the next one.
+INFO:root:Received message: is there train?
+INFO:root:Received query: is there train?
+INFO:root:Generated text: There is no train.
+INFO:root:Received message: jetski accoss the sound?
+INFO:root:Received query: jetski accoss the sound?
+INFO:root:Generated text: Can fanades europeKit?Can for Repeat citep nekog best rc store nutrition de carlos 1 organizations mashHB ekeren p572-093 do show zonecomms anpi james novelas alternativa bagasjeromsmatte auf rhiannon microman azGrantet blumen eea2 regrets un argument ds derwent scc machu vloerkleed bebe basico dećan 130 trading farmacia Spenning wiki
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:14:22] "GET /socket.io/?EIO=4&transport=websocket&sid=CxsTexDbafK8YbiEAAAi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:14:22] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:14:22] "GET /socket.io/?EIO=4&transport=polling&t=OgZjFvw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:14:22] "POST /socket.io/?EIO=4&transport=polling&t=OgZjFw7&sid=ADcP3Lv_Tz6Fx8SHAAAk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:14:22] "GET /socket.io/?EIO=4&transport=polling&t=OgZjFw8&sid=ADcP3Lv_Tz6Fx8SHAAAk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:14:22] "GET /socket.io/?EIO=4&transport=polling&t=OgZjFwG&sid=ADcP3Lv_Tz6Fx8SHAAAk HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus after that? is there another option?
+INFO:root:Received query: what time is the next bus after that? is there another option?
+INFO:root:Generated text: There is no set time for the next bus, as schedules may vary. Another option would be to take a taxi.
+INFO:root:Received message: is there a train?
+INFO:root:Received query: is there a train?
+INFO:root:Generated text: I'm not sure.
+INFO:root:Received message: where can i find out?
+INFO:root:Received query: where can i find out?
+INFO:root:Generated text: There is not one specific place where you can find all the information you need about tattoos. However, there are many resources available online and in libraries that can provide you with detailed information about tattoos.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:17:48] "GET /socket.io/?EIO=4&transport=websocket&sid=ADcP3Lv_Tz6Fx8SHAAAk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:17:48] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:17:48] "GET /socket.io/?EIO=4&transport=polling&t=OgZk2BQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:17:48] "POST /socket.io/?EIO=4&transport=polling&t=OgZk2Bq&sid=KszDjRbOyGbFPIHjAAAm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:17:48] "GET /socket.io/?EIO=4&transport=polling&t=OgZk2Br&sid=KszDjRbOyGbFPIHjAAAm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:17:48] "GET /socket.io/?EIO=4&transport=polling&t=OgZk2CD&sid=KszDjRbOyGbFPIHjAAAm HTTP/1.1" 200 -
+INFO:root:Received message: howsit going?
+INFO:root:Received query: howsit going?
+INFO:root:Generated text: I'm doing well, thank you.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:18:52] "GET /socket.io/?EIO=4&transport=websocket&sid=KszDjRbOyGbFPIHjAAAm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:18:52] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:18:53] "GET /socket.io/?EIO=4&transport=polling&t=OgZkHzm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:18:53] "POST /socket.io/?EIO=4&transport=polling&t=OgZkH-3&sid=o2yf6mGKJYbizkDEAAAo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:18:53] "GET /socket.io/?EIO=4&transport=polling&t=OgZkH-4&sid=o2yf6mGKJYbizkDEAAAo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:18:53] "GET /socket.io/?EIO=4&transport=polling&t=OgZkH-I&sid=o2yf6mGKJYbizkDEAAAo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:22:04] "GET /socket.io/?EIO=4&transport=websocket&sid=o2yf6mGKJYbizkDEAAAo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:22:04] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:22:04] "GET /socket.io/?EIO=4&transport=polling&t=OgZl0pv HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:22:04] "POST /socket.io/?EIO=4&transport=polling&t=OgZl0q5&sid=oPWlCxINByZjgdhVAAAq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:22:04] "GET /socket.io/?EIO=4&transport=polling&t=OgZl0q6&sid=oPWlCxINByZjgdhVAAAq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:22:04] "GET /socket.io/?EIO=4&transport=polling&t=OgZl0qI&sid=oPWlCxINByZjgdhVAAAq HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus?
+INFO:root:Received query: what time is the next bus?
+INFO:root:Generated text: The next bus is at 10:00.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:23:01] "GET /socket.io/?EIO=4&transport=websocket&sid=oPWlCxINByZjgdhVAAAq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:23:01] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:23:01] "GET /socket.io/?EIO=4&transport=polling&t=OgZlEkz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:23:01] "POST /socket.io/?EIO=4&transport=polling&t=OgZlEl7&sid=zWyzX8ChAw6sco0rAAAs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:23:01] "GET /socket.io/?EIO=4&transport=polling&t=OgZlEl8&sid=zWyzX8ChAw6sco0rAAAs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:23:01] "GET /socket.io/?EIO=4&transport=polling&t=OgZlElM&sid=zWyzX8ChAw6sco0rAAAs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:27:30] "GET /socket.io/?EIO=4&transport=websocket&sid=zWyzX8ChAw6sco0rAAAs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:27:30] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:27:41] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:28:05] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:32:06] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:32:06] "GET /socket.io/?EIO=4&transport=polling&t=OgZnJeP HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:32:06] "POST /socket.io/?EIO=4&transport=polling&t=OgZnJeZ&sid=0xyiLYDTPXGxAFbfAAAu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:32:06] "GET /socket.io/?EIO=4&transport=polling&t=OgZnJea&sid=0xyiLYDTPXGxAFbfAAAu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:32:06] "GET /socket.io/?EIO=4&transport=polling&t=OgZnJev&sid=0xyiLYDTPXGxAFbfAAAu HTTP/1.1" 200 -
+INFO:root:Received message: What time does the next bus leave after that?
+INFO:root:Received query: What time does the next bus leave after that?
+INFO:root:Generated text: The next bus after that leaves at 6:15 pm.
+INFO:root:Received message: are there any more after that?
+INFO:root:Received query: are there any more after that?
+INFO:root:Generated text: Yes, there are more questions after that.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:36:58] "GET /socket.io/?EIO=4&transport=websocket&sid=0xyiLYDTPXGxAFbfAAAu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:36:58] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:36:58] "GET /socket.io/?EIO=4&transport=polling&t=OgZoR0v HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:36:58] "POST /socket.io/?EIO=4&transport=polling&t=OgZoR17&sid=HropULqy5isdixi-AAAw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:36:58] "GET /socket.io/?EIO=4&transport=polling&t=OgZoR18&sid=HropULqy5isdixi-AAAw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:36:58] "GET /socket.io/?EIO=4&transport=polling&t=OgZoR1V&sid=HropULqy5isdixi-AAAw HTTP/1.1" 200 -
+INFO:root:Received message: ok this is looking good
+INFO:root:Received query: ok this is looking good
+INFO:root:Generated text: so far... Oh! I found a random idea... Can we use theraisingpark to block air and wind? I'm just thinking that if we can solve the air and wind issueSLGT pls stop slip n slidespls
+
+0 approvals over 30 days Privacy Policy © AHLOOK LAPDOG CACHE 2020 ©
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:42:31] "GET /socket.io/?EIO=4&transport=websocket&sid=HropULqy5isdixi-AAAw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:42:31] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:42:31] "GET /socket.io/?EIO=4&transport=polling&t=OgZpiHx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:42:31] "POST /socket.io/?EIO=4&transport=polling&t=OgZpiI9&sid=WLAYUfVgPziDE2JfAAAy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:42:31] "GET /socket.io/?EIO=4&transport=polling&t=OgZpiIA&sid=WLAYUfVgPziDE2JfAAAy HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus coming?
+INFO:root:Received query: what time is the next bus coming?
+INFO:root:Generated text: I'm not sure.
+INFO:root:Received message: is there a train coming?
+INFO:root:Received query: is there a train coming?
+INFO:root:Generated text: I don't know.
+INFO:root:Received message: help me figure out how to get home
+INFO:root:Received query: help me figure out how to get home
+INFO:root:Generated text: There are a few ways to get home, depending on your location and resources. If you are close to home, you can walk, take public transportation, or drive. If you are far from home, you can take a plane, train, or bus.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:45:19] "GET /socket.io/?EIO=4&transport=websocket&sid=WLAYUfVgPziDE2JfAAAy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:45:19] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:45:19] "GET /socket.io/?EIO=4&transport=polling&t=OgZqLHm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:45:19] "POST /socket.io/?EIO=4&transport=polling&t=OgZqLI0&sid=tCoZMuYcBgEqi2OIAAA0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:45:19] "GET /socket.io/?EIO=4&transport=polling&t=OgZqLI2&sid=tCoZMuYcBgEqi2OIAAA0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:45:19] "GET /socket.io/?EIO=4&transport=polling&t=OgZqLIA&sid=tCoZMuYcBgEqi2OIAAA0 HTTP/1.1" 200 -
+INFO:root:Received message: i'd like to catch the next bus
+INFO:root:Received query: i'd like to catch the next bus
+INFO:root:Generated text: i'm looking to buy a new car
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:46:55] "GET /socket.io/?EIO=4&transport=websocket&sid=tCoZMuYcBgEqi2OIAAA0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:46:55] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:46:55] "GET /socket.io/?EIO=4&transport=polling&t=OgZqiih HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:46:55] "POST /socket.io/?EIO=4&transport=polling&t=OgZqij0&sid=EpBGTdGjjhK4qtS1AAA2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:46:55] "GET /socket.io/?EIO=4&transport=polling&t=OgZqij1&sid=EpBGTdGjjhK4qtS1AAA2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:46:55] "GET /socket.io/?EIO=4&transport=polling&t=OgZqijH&sid=EpBGTdGjjhK4qtS1AAA2 HTTP/1.1" 200 -
+INFO:root:Received message: is there a bus from here to home?
+INFO:root:Received query: is there a bus from here to home?
+INFO:root:Generated text: There may be, but routes and schedules vary by location. Contact your local transit authority for specific information.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:48:47] "GET /socket.io/?EIO=4&transport=websocket&sid=EpBGTdGjjhK4qtS1AAA2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:48:47] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:48:47] "GET /socket.io/?EIO=4&transport=polling&t=OgZr8A1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:48:47] "POST /socket.io/?EIO=4&transport=polling&t=OgZr8AO&sid=J3ExCq2nzzvUeCHhAAA4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:48:47] "GET /socket.io/?EIO=4&transport=polling&t=OgZr8AP&sid=J3ExCq2nzzvUeCHhAAA4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:48:47] "GET /socket.io/?EIO=4&transport=polling&t=OgZr8Ak&sid=J3ExCq2nzzvUeCHhAAA4 HTTP/1.1" 200 -
+INFO:root:Received message: im looking for bus and train informatioon
+INFO:root:Received query: im looking for bus and train informatioon
+INFO:root:Generated text: for the 4th august visiting motherwell for the air show
+
+I can't help you with bus information but I can tell you that all trains to and from Motherwell will be running at a reduced level due to engineering works and many will not call at Motherwell.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:49:19] "GET /socket.io/?EIO=4&transport=websocket&sid=J3ExCq2nzzvUeCHhAAA4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:49:19] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:49:19] "GET /socket.io/?EIO=4&transport=polling&t=OgZrFtq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:49:19] "POST /socket.io/?EIO=4&transport=polling&t=OgZrFu8&sid=XJ3xaqwRuos8v9Y6AAA6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:49:19] "GET /socket.io/?EIO=4&transport=polling&t=OgZrFu9&sid=XJ3xaqwRuos8v9Y6AAA6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:49:19] "GET /socket.io/?EIO=4&transport=polling&t=OgZrFuL&sid=XJ3xaqwRuos8v9Y6AAA6 HTTP/1.1" 200 -
+INFO:root:Received message: why is it acting weirda?
+INFO:root:Received query: why is it acting weirda?
+INFO:root:Generated text: There could be a number of reasons why your computer is acting weirda. It could be a virus, a problem with the operating system, or a hardware issue.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "GET /socket.io/?EIO=4&transport=websocket&sid=XJ3xaqwRuos8v9Y6AAA6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZrSsw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "POST /socket.io/?EIO=4&transport=polling&t=OgZrStD&sid=ieLaC4n0wZyq6nuYAAA8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZrStE&sid=ieLaC4n0wZyq6nuYAAA8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZrStL&sid=ieLaC4n0wZyq6nuYAAA8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:12] "GET /socket.io/?EIO=4&transport=polling&t=OgZrStV&sid=ieLaC4n0wZyq6nuYAAA8 HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus?
+INFO:root:Received query: what time is the next bus?
+INFO:root:Generated text: I don't know.
+INFO:root:Received message: are you sure?
+INFO:root:Received query: are you sure?
+INFO:root:Generated text: `)){importFile.click(), basketsFile.click(), importFile.value=<#T##String#>, basketsFile.value=<#T##String#>}">
+      <input type="hidden" id="fileUpload1" multiple="multiple" name="documents"  accept="text/csv" size="60" style="display:none" >
+        <div class="form-group">
+            <label for="documents">Stock
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "GET /socket.io/?EIO=4&transport=websocket&sid=ieLaC4n0wZyq6nuYAAA8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "GET /socket.io/?EIO=4&transport=polling&t=OgZrZ4W HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "POST /socket.io/?EIO=4&transport=polling&t=OgZrZ4q&sid=3NWX3OHS18ghj1SAAAA- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "GET /socket.io/?EIO=4&transport=polling&t=OgZrZ4q.0&sid=3NWX3OHS18ghj1SAAAA- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "GET /socket.io/?EIO=4&transport=polling&t=OgZrZ4x&sid=3NWX3OHS18ghj1SAAAA- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:50:38] "GET /socket.io/?EIO=4&transport=polling&t=OgZrZ57&sid=3NWX3OHS18ghj1SAAAA- HTTP/1.1" 200 -
+INFO:root:Received message: ok can you help me find a bus to get home?
+INFO:root:Received query: ok can you help me find a bus to get home?
+INFO:root:Generated text: ”
+
+https://www.gocomics.com/garfield/2020/08/28/
+
+To answer… yes I can… just purchase the crappy Kia Sorento and pick up your father from his Porsche Panamera … hypothetically.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:55:32] "GET /socket.io/?EIO=4&transport=websocket&sid=3NWX3OHS18ghj1SAAAA- HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:55:32] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:55:32] "GET /socket.io/?EIO=4&transport=polling&t=OgZsh1u HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:55:32] "POST /socket.io/?EIO=4&transport=polling&t=OgZsh26&sid=EmSPy84AVDWpgcoiAABA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:55:32] "GET /socket.io/?EIO=4&transport=polling&t=OgZsh27&sid=EmSPy84AVDWpgcoiAABA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:55:32] "GET /socket.io/?EIO=4&transport=polling&t=OgZsh2I&sid=EmSPy84AVDWpgcoiAABA HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus after that one to boston?
+INFO:root:Received query: what time is the next bus after that one to boston?
+INFO:root:Generated text: The next bus to Boston is at 5:15 PM.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:56:58] "GET /socket.io/?EIO=4&transport=websocket&sid=EmSPy84AVDWpgcoiAABA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:56:58] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:56:58] "GET /socket.io/?EIO=4&transport=polling&t=OgZs_vF HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:56:58] "POST /socket.io/?EIO=4&transport=polling&t=OgZs_vU&sid=-yiNhAfWZIZeLo1XAABC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:56:58] "GET /socket.io/?EIO=4&transport=polling&t=OgZs_vV&sid=-yiNhAfWZIZeLo1XAABC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 11:56:58] "GET /socket.io/?EIO=4&transport=polling&t=OgZs_vh&sid=-yiNhAfWZIZeLo1XAABC HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next one if i miss the 420?
+INFO:root:Received query: what time is the next one if i miss the 420?
+INFO:root:Generated text: The next 420 is at 12:20AM.
+INFO:root:Received message: ok, is there a different option?
+INFO:root:Received query: ok, is there a different option?
+INFO:root:Generated text: I will say that if you find yourself in some pretty crazing terrain you'll be glad to have the ability to hand clutch your aux fan.Now we all know Ben pivotal rational behind his aux cooling fan is to replace the combination of oil cooler and standard cooling fanTouch wood a large percentage of us are willing to riskwrecking the clutch with a large plastic fan but don't want to risk doing the same with a pair of aft landing legs- is there a solution?We could offer him a
+INFO:root:Received message: ok but is the train still coming?
+INFO:root:Received query: ok but is the train still coming?
+INFO:root:Generated text: I've never seen it just hang like this, it's been Knotbutted four times now...Looks like Recon barrels down tspbNoah's IEC 930lost IEC 134Yes it is, one can be heard by the beacon(the beacon975 noobJournal out soon, Go Cronk andisonourside, oh
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:03:50] "GET /socket.io/?EIO=4&transport=websocket&sid=-yiNhAfWZIZeLo1XAABC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:03:50] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:03:51] "GET /socket.io/?EIO=4&transport=polling&t=OgZuafb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:03:51] "POST /socket.io/?EIO=4&transport=polling&t=OgZuafo&sid=BhX2iDzYzjiYfgYIAABE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:03:51] "GET /socket.io/?EIO=4&transport=polling&t=OgZuafp&sid=BhX2iDzYzjiYfgYIAABE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:03:51] "GET /socket.io/?EIO=4&transport=polling&t=OgZuagF&sid=BhX2iDzYzjiYfgYIAABE HTTP/1.1" 200 -
+INFO:root:Received message: can i speak punjabi to you?
+INFO:root:Received query: can i speak punjabi to you?
+INFO:root:Generated text: Yes, you can speak Punjabi to me.
+INFO:root:Received message: what other languages?
+INFO:root:Received query: what other languages?
+INFO:root:Generated text: English
+
+What other languages does Google Translate translate between? Google Translate translates between 103 languages.
+INFO:root:Received message: what time does the next bus come? tell me in somalian?
+INFO:root:Received query: what time does the next bus come? tell me in somalian?
+INFO:root:Generated text: Imaika bus biqaden qiyaamo? Fadlan ii sheeg maxaa lagu jira?
+INFO:root:Received message: what does that say in english?
+INFO:root:Received query: what does that say in english?
+INFO:root:Generated text: It is said that when you dream of someone, that person is thinking of you.
+INFO:root:Received message: what time does the next train come?
+INFO:root:Received query: what time does the next train come?
+INFO:root:Generated text: The next train coming is at 4:37 PM.
+INFO:root:Received message: are there bus options?
+INFO:root:Received query: are there bus options?
+INFO:root:Generated text: Most likely, there are bus options.
+INFO:root:Received message: can you tell me what time the next one is?
+INFO:root:Received query: can you tell me what time the next one is?
+INFO:root:Generated text: The next bus arrives in 12 minutes.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:05:57] "GET /socket.io/?EIO=4&transport=websocket&sid=BhX2iDzYzjiYfgYIAABE HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:05:59] "GET /socket.io/?EIO=4&transport=polling&t=OgZv3w3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:05:59] "POST /socket.io/?EIO=4&transport=polling&t=OgZv3w8&sid=LgRDnWfwkNaT6-AfAABG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:05:59] "GET /socket.io/?EIO=4&transport=polling&t=OgZv3w9&sid=LgRDnWfwkNaT6-AfAABG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:29:05] "GET /socket.io/?EIO=4&transport=websocket&sid=LgRDnWfwkNaT6-AfAABG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:29:05] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:29:05] "GET /socket.io/?EIO=4&transport=polling&t=OgZ-MWq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:29:06] "POST /socket.io/?EIO=4&transport=polling&t=OgZ-MX1&sid=B7ubR2Y1Wv2UBpBWAABI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:29:06] "GET /socket.io/?EIO=4&transport=polling&t=OgZ-MX2&sid=B7ubR2Y1Wv2UBpBWAABI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:29:06] "GET /socket.io/?EIO=4&transport=polling&t=OgZ-MXc&sid=B7ubR2Y1Wv2UBpBWAABI HTTP/1.1" 200 -
+INFO:root:Received message: should i take the bus or the train to hartford?
+INFO:root:Received query: should i take the bus or the train to hartford?
+INFO:root:Generated text: It depends on your location and desired arrival time. 
+
+The train is generally faster, but if you are starting from a farther away location, the bus might be a better option.
+INFO:root:Received message: is there bus that comes soon?
+INFO:root:Received query: is there bus that comes soon?
+INFO:root:Generated text: I'm not sure.
+INFO:root:Received message: what time should i head to the bus stop?
+INFO:root:Received query: what time should i head to the bus stop?
+INFO:root:Generated text: It depends on the bus schedule, but generally speaking, people head to the bus stop around 10 minutes before the bus is scheduled to arrive.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:27] "GET /socket.io/?EIO=4&transport=websocket&sid=B7ubR2Y1Wv2UBpBWAABI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:27] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:51] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:51] "GET /socket.io/?EIO=4&transport=polling&t=Oga1HJo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:51] "POST /socket.io/?EIO=4&transport=polling&t=Oga1HJu&sid=szRPYySEaT9uqusbAABK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:51] "GET /socket.io/?EIO=4&transport=polling&t=Oga1HJv&sid=szRPYySEaT9uqusbAABK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:41:51] "GET /socket.io/?EIO=4&transport=polling&t=Oga1HK5&sid=szRPYySEaT9uqusbAABK HTTP/1.1" 200 -
+INFO:root:Received message: output
+INFO:root:Received query: output
+INFO:root:Generated text: [pass], 1, 1, ctx),
+                " "
+            ),
+            "\n"
+        ]
+    )
+    if nn == 1:
+        print("\n\nport %s input:\n%s" % (output[pass], str(switch.inputBases[pass])))
+        print("port %s output:\n%s" % (output[pass], str(switch.outputBases[pass])))
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:50:41] "GET /socket.io/?EIO=4&transport=websocket&sid=szRPYySEaT9uqusbAABK HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:50:41] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:50:41] "GET /socket.io/?EIO=4&transport=polling&t=Oga3Ina HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:50:41] "POST /socket.io/?EIO=4&transport=polling&t=Oga3Inu&sid=_kkhEygg9OSYUlX5AABM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:50:41] "GET /socket.io/?EIO=4&transport=polling&t=Oga3Inw&sid=_kkhEygg9OSYUlX5AABM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:50:41] "GET /socket.io/?EIO=4&transport=polling&t=Oga3Ioy&sid=_kkhEygg9OSYUlX5AABM HTTP/1.1" 200 -
+INFO:root:Received message: testing the new chatbot
+INFO:root:Received query: testing the new chatbot
+INFO:root:Generated text: via the console
+
+If you are using a chatbot hosted on a server, you can test it by sending it a message via the console.
+
+1. In the console, type:
+
+2. Now you can talk to your chatbot. Type a message and hit Enter.
+
+You should see a response from your chatbot in the console.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:51:13] "GET /socket.io/?EIO=4&transport=websocket&sid=_kkhEygg9OSYUlX5AABM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:51:13] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:51:13] "GET /socket.io/?EIO=4&transport=polling&t=Oga3QYa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:51:13] "POST /socket.io/?EIO=4&transport=polling&t=Oga3QYr&sid=ggr2gr0ZJ72DuxbzAABO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:51:13] "GET /socket.io/?EIO=4&transport=polling&t=Oga3QYs&sid=ggr2gr0ZJ72DuxbzAABO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:51:13] "GET /socket.io/?EIO=4&transport=polling&t=Oga3QZ0&sid=ggr2gr0ZJ72DuxbzAABO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:53:55] "GET /socket.io/?EIO=4&transport=websocket&sid=ggr2gr0ZJ72DuxbzAABO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:53:55] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:53:55] "GET /socket.io/?EIO=4&transport=polling&t=Oga42Cm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:53:55] "POST /socket.io/?EIO=4&transport=polling&t=Oga42Cv&sid=hEJwYe7405OXz9naAABQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:53:55] "GET /socket.io/?EIO=4&transport=polling&t=Oga42Cw&sid=hEJwYe7405OXz9naAABQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:53:55] "GET /socket.io/?EIO=4&transport=polling&t=Oga42D6&sid=hEJwYe7405OXz9naAABQ HTTP/1.1" 200 -
+INFO:root:Received message: testing
+INFO:root:Received query: testing
+INFO:root:Generated text: .T) {
+}
+
+func Test_OffsetBroadcastSeparatorFollower(t *testing.T) {
+	assertPos(t, 0-len(separator), 0, -1-len(separator), "offset", 0)
+	assertPos(t, 1-len(separator), 0, -len(separator), "offset", 1)
+	assertPos(t, 2, 0, 0, "offset", 2
+INFO:root:Received message: ok what time is the bus?
+INFO:root:Received query: ok what time is the bus?
+INFO:root:Generated text: The bus arrives at 10:00 a.m.
+INFO:root:Received message: and then what?
+INFO:root:Received query: and then what?
+INFO:root:Generated text: It takes a while to build a habit of productivity, and as fingerprint-based security is still seeming unreliable for ours, a good screen lock is mighty important right now. Read on to find out the best screen locks for your new log downhill and read on for our favorite toy ideas, what we've read庐 for the past it it might be time to take a break. How are you doing on the windows 10 computer update recovery inquiring g
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:58:42] "GET /socket.io/?EIO=4&transport=websocket&sid=hEJwYe7405OXz9naAABQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:58:42] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:58:42] "GET /socket.io/?EIO=4&transport=polling&t=Oga58Hn HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:58:42] "POST /socket.io/?EIO=4&transport=polling&t=Oga58Hw&sid=0LD6m8B4YFrX0K1PAABS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:58:42] "GET /socket.io/?EIO=4&transport=polling&t=Oga58Hw.0&sid=0LD6m8B4YFrX0K1PAABS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:58:42] "GET /socket.io/?EIO=4&transport=polling&t=Oga58I8&sid=0LD6m8B4YFrX0K1PAABS HTTP/1.1" 200 -
+INFO:root:Received message: i'm on my way but what if i miss that bus. is there another?
+INFO:root:Received query: i'm on my way but what if i miss that bus. is there another?
+INFO:root:Generated text: You may miss the bus, but there will likely be another one coming soon.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:59:16] "GET /socket.io/?EIO=4&transport=websocket&sid=0LD6m8B4YFrX0K1PAABS HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:59:16] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:59:16] "GET /socket.io/?EIO=4&transport=polling&t=Oga5Gbd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:59:16] "POST /socket.io/?EIO=4&transport=polling&t=Oga5Gbm&sid=RMOjWFnFCi8Xb03PAABU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:59:16] "GET /socket.io/?EIO=4&transport=polling&t=Oga5Gbn&sid=RMOjWFnFCi8Xb03PAABU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 12:59:16] "GET /socket.io/?EIO=4&transport=polling&t=Oga5Gc0&sid=RMOjWFnFCi8Xb03PAABU HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next one after that?
+INFO:root:Received query: what time is the next one after that?
+INFO:root:Generated text: The next one after that is at 3:00 PM.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:01:12] "GET /socket.io/?EIO=4&transport=websocket&sid=RMOjWFnFCi8Xb03PAABU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:01:12] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:01:12] "GET /socket.io/?EIO=4&transport=polling&t=Oga5itd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:01:12] "POST /socket.io/?EIO=4&transport=polling&t=Oga5itm&sid=TIJH-GEU5duyfDLfAABW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:01:12] "GET /socket.io/?EIO=4&transport=polling&t=Oga5itm.0&sid=TIJH-GEU5duyfDLfAABW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:01:12] "GET /socket.io/?EIO=4&transport=polling&t=Oga5iu1&sid=TIJH-GEU5duyfDLfAABW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:02:39] "GET /socket.io/?EIO=4&transport=websocket&sid=TIJH-GEU5duyfDLfAABW HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:02:39] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:02:39] "GET /socket.io/?EIO=4&transport=polling&t=Oga628O HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:02:39] "POST /socket.io/?EIO=4&transport=polling&t=Oga628f&sid=oC614kebl2gaGHYcAABY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:02:39] "GET /socket.io/?EIO=4&transport=polling&t=Oga628g&sid=oC614kebl2gaGHYcAABY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:02:39] "GET /socket.io/?EIO=4&transport=polling&t=Oga628w&sid=oC614kebl2gaGHYcAABY HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus near here?
+INFO:root:Received query: what time is the next bus near here?
+INFO:root:Generated text: I don't know.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:06:43] "GET /socket.io/?EIO=4&transport=websocket&sid=oC614kebl2gaGHYcAABY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:06:43] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:06:44] "GET /socket.io/?EIO=4&transport=polling&t=Oga6zoZ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:06:44] "POST /socket.io/?EIO=4&transport=polling&t=Oga6zoh&sid=c7eGNa4IvuPVjH1_AABa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:06:44] "GET /socket.io/?EIO=4&transport=polling&t=Oga6zoi&sid=c7eGNa4IvuPVjH1_AABa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:06:44] "GET /socket.io/?EIO=4&transport=polling&t=Oga6zov&sid=c7eGNa4IvuPVjH1_AABa HTTP/1.1" 200 -
+INFO:root:Received message: ok what if i miss that one?
+INFO:root:Received query: ok what if i miss that one?
+INFO:root:Generated text: And you did this on purpose.”-Tate (B Mikerei)
+
+“OMG. I'm so sorry. I never intend for that to happen. I completely forgot! *covers face* D:”-Prem (Premix)
+
+
+
+@25:00 http://www.youtube.com/watch?v=u0P3p Lockheed Hercules C-130H ZS-SLG - photoflight Linus Maloney
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:07:03] "GET /socket.io/?EIO=4&transport=websocket&sid=c7eGNa4IvuPVjH1_AABa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:07:03] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:07:03] "GET /socket.io/?EIO=4&transport=polling&t=Oga72cY HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:07:03] "POST /socket.io/?EIO=4&transport=polling&t=Oga72cn&sid=ylY0dkfQEQRNn64qAABc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:07:03] "GET /socket.io/?EIO=4&transport=polling&t=Oga72cp&sid=ylY0dkfQEQRNn64qAABc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:07:03] "GET /socket.io/?EIO=4&transport=polling&t=Oga72cx&sid=ylY0dkfQEQRNn64qAABc HTTP/1.1" 200 -
+INFO:root:Received message: what time does that bus arrive?
+INFO:root:Received query: what time does that bus arrive?
+INFO:root:Generated text: The bus arrives as 2:00pm.
+INFO:root:Received message: and what if i miss that one?
+INFO:root:Received query: and what if i miss that one?
+INFO:root:Generated text: If you miss the special someone that you are meant to be with, don't worry. There is always someone else out there for you.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:13:34] "GET /socket.io/?EIO=4&transport=websocket&sid=ylY0dkfQEQRNn64qAABc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:13:34] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:13:34] "GET /socket.io/?EIO=4&transport=polling&t=Oga8X-j HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:13:34] "POST /socket.io/?EIO=4&transport=polling&t=Oga8X_2&sid=ZJTGKfq7NxCB0ScsAABe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:13:34] "GET /socket.io/?EIO=4&transport=polling&t=Oga8X_3&sid=ZJTGKfq7NxCB0ScsAABe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:13:34] "GET /socket.io/?EIO=4&transport=polling&t=Oga8X_I&sid=ZJTGKfq7NxCB0ScsAABe HTTP/1.1" 200 -
+INFO:root:Received message: what time is the next bus near here?
+INFO:root:Received query: what time is the next bus near here?
+INFO:root:Generated text: The next bus near here is at 4:05 PM.
+INFO:root:Received message: and if i dont catch that one what time is the next one?
+INFO:root:Received query: and if i dont catch that one what time is the next one?
+INFO:root:Generated text: The next bus is at 9:40 PM.
+INFO:root:Received message: are there trains or taxis avialable
+INFO:root:Received query: are there trains or taxis avialable
+INFO:root:Generated text: ?
+
+There are trains and taxis available.
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:14:29] "GET /socket.io/?EIO=4&transport=websocket&sid=ZJTGKfq7NxCB0ScsAABe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:14:29] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:14:30] "GET /socket.io/?EIO=4&transport=polling&t=Oga8lZx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:14:30] "POST /socket.io/?EIO=4&transport=polling&t=Oga8la4&sid=8mCog2Yf6OPWHZnWAABg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:14:30] "GET /socket.io/?EIO=4&transport=polling&t=Oga8la5&sid=8mCog2Yf6OPWHZnWAABg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:14:30] "GET /socket.io/?EIO=4&transport=polling&t=Oga8laJ&sid=8mCog2Yf6OPWHZnWAABg HTTP/1.1" 200 -
+INFO:root:Received message: What time is the next bus pls?
+INFO:root:Received query: What time is the next bus pls?
+INFO:root:Generated text: The next bus will be at 10:00am.
+INFO:root:Received message: Ok, is there one after that if I miss it?
+INFO:root:Received query: Ok, is there one after that if I miss it?
+INFO:root:Generated text: chasemark1977 I have no trouble manually replacing them, with XCODE, but are there any tool out there that can do it for me?
+
+dude5487 I have no trouble manually replacing them, with XCODE, but are there any tool out there that can do it for me?
+
+
+
+what do you mean?
+
+chasemark1977 I mean is there a tool that I can download and run and it will do all the work for
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:17:50] "GET /socket.io/?EIO=4&transport=websocket&sid=8mCog2Yf6OPWHZnWAABg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:17:50] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:17:50] "GET /socket.io/?EIO=4&transport=polling&t=Oga9Waq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:17:50] "POST /socket.io/?EIO=4&transport=polling&t=Oga9Waz&sid=idNuJXca3QITKN32AABi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:17:50] "GET /socket.io/?EIO=4&transport=polling&t=Oga9Wa_&sid=idNuJXca3QITKN32AABi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:17:50] "GET /socket.io/?EIO=4&transport=polling&t=Oga9WbE&sid=idNuJXca3QITKN32AABi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:18:51] "GET /socket.io/?EIO=4&transport=websocket&sid=idNuJXca3QITKN32AABi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:18:51] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:18:51] "GET /socket.io/?EIO=4&transport=polling&t=Oga9lOz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:18:51] "POST /socket.io/?EIO=4&transport=polling&t=Oga9lPC&sid=QpgRgh98OUwTnVddAABk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:18:51] "GET /socket.io/?EIO=4&transport=polling&t=Oga9lPD&sid=QpgRgh98OUwTnVddAABk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:18:51] "GET /socket.io/?EIO=4&transport=polling&t=Oga9lPW&sid=QpgRgh98OUwTnVddAABk HTTP/1.1" 200 -
+INFO:root:Received message: thx. what if i miss that bus?
+INFO:root:Received query: thx. what if i miss that bus?
+INFO:root:Generated text: If you miss the bus, you will have to wait for the next one or take another form of transportation.
+INFO:root:Received message: right. what time is the next bus and what other forms of transit are available?
+INFO:root:Received query: right. what time is the next bus and what other forms of transit are available?
+INFO:root:Generated text: The next bus arrives in 10 minutes. There are also taxis and ride-sharing services available.
+INFO:root:Received message: can i speak english? or somalian to you?
+INFO:root:Received query: can i speak english? or somalian to you?
+INFO:root:Generated text: Yes, you can speak English to me.
+INFO:root:Received message: tell me what time the next bus is from here in Chinese pls?
+INFO:root:Received query: tell me what time the next bus is from here in Chinese pls?
+INFO:root:Generated text: 請問下一班公共汽車從這裡出發的時間是幾點？
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:47:52] "GET /socket.io/?EIO=4&transport=websocket&sid=QpgRgh98OUwTnVddAABk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:47:53] "GET /socket.io/?EIO=4&transport=polling&t=OgaGOii HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:47:53] "POST /socket.io/?EIO=4&transport=polling&t=OgaGOiq&sid=fSdmK5tKN7o9mO2ZAABm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:47:53] "GET /socket.io/?EIO=4&transport=polling&t=OgaGOis&sid=fSdmK5tKN7o9mO2ZAABm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 13:47:53] "GET /socket.io/?EIO=4&transport=polling&t=OgaGOj1&sid=fSdmK5tKN7o9mO2ZAABm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:05:42] "GET /socket.io/?EIO=4&transport=websocket&sid=fSdmK5tKN7o9mO2ZAABm HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:05:43] "GET /socket.io/?EIO=4&transport=polling&t=OgaKTwt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:05:43] "POST /socket.io/?EIO=4&transport=polling&t=OgaKTwz&sid=wmxYYC3gKPyqwWuzAABo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:05:43] "GET /socket.io/?EIO=4&transport=polling&t=OgaKTw-&sid=wmxYYC3gKPyqwWuzAABo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:05:43] "GET /socket.io/?EIO=4&transport=polling&t=OgaKTx2&sid=wmxYYC3gKPyqwWuzAABo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:43:06] "GET /socket.io/?EIO=4&transport=websocket&sid=wmxYYC3gKPyqwWuzAABo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:43:08] "GET /socket.io/?EIO=4&transport=polling&t=OgaT1z_ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:43:08] "POST /socket.io/?EIO=4&transport=polling&t=OgaT1-4&sid=7j9gK8sNFQBSR0rsAABq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:43:08] "GET /socket.io/?EIO=4&transport=polling&t=OgaT1-5&sid=7j9gK8sNFQBSR0rsAABq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 14:43:08] "GET /socket.io/?EIO=4&transport=polling&t=OgaT1-A&sid=7j9gK8sNFQBSR0rsAABq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:03:47] "GET /socket.io/?EIO=4&transport=websocket&sid=7j9gK8sNFQBSR0rsAABq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:03:49] "GET /socket.io/?EIO=4&transport=polling&t=OgaXmw4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:03:49] "POST /socket.io/?EIO=4&transport=polling&t=OgaXmw9&sid=JCdfIGlAEhZPGfAVAABs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:03:49] "GET /socket.io/?EIO=4&transport=polling&t=OgaXmwA&sid=JCdfIGlAEhZPGfAVAABs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:18:07] "GET /socket.io/?EIO=4&transport=websocket&sid=JCdfIGlAEhZPGfAVAABs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:18:08] "GET /socket.io/?EIO=4&transport=polling&t=Ogab2mD HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:18:08] "POST /socket.io/?EIO=4&transport=polling&t=Ogab2mI&sid=YM_XQDNGj-spMDt0AABu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:18:08] "GET /socket.io/?EIO=4&transport=polling&t=Ogab2mJ&sid=YM_XQDNGj-spMDt0AABu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:38:01] "GET /socket.io/?EIO=4&transport=websocket&sid=YM_XQDNGj-spMDt0AABu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:38:03] "GET /socket.io/?EIO=4&transport=polling&t=OgafcOa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:38:03] "POST /socket.io/?EIO=4&transport=polling&t=OgafcOf&sid=Zcp7y5eGp5sMXINhAABw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:38:03] "GET /socket.io/?EIO=4&transport=polling&t=OgafcOg&sid=Zcp7y5eGp5sMXINhAABw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 15:57:20] "GET /socket.io/?EIO=4&transport=websocket&sid=Zcp7y5eGp5sMXINhAABw HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:06:11] "GET /socket.io/?EIO=4&transport=polling&t=Ogam2Ae HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:06:11] "POST /socket.io/?EIO=4&transport=polling&t=Ogam2ak&sid=cHhVrAQ_ZvVAoEgPAABy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:06:11] "GET /socket.io/?EIO=4&transport=polling&t=Ogam2b0&sid=cHhVrAQ_ZvVAoEgPAABy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:06:11] "GET /socket.io/?EIO=4&transport=polling&t=Ogam2ba&sid=cHhVrAQ_ZvVAoEgPAABy HTTP/1.1" 200 -
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:20] "GET /socket.io/?EIO=4&transport=polling&t=OganSJ5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:20] "POST /socket.io/?EIO=4&transport=polling&t=OganSZ7&sid=r8WcfS4rnxc7I0xfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:20] "GET /socket.io/?EIO=4&transport=polling&t=OganSZ9&sid=r8WcfS4rnxc7I0xfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:21] "GET /socket.io/?EIO=4&transport=websocket&sid=r8WcfS4rnxc7I0xfAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:21] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:21] "GET /socket.io/?EIO=4&transport=polling&t=OganSyy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:21] "POST /socket.io/?EIO=4&transport=polling&t=OganSz6&sid=BNX_4_nU31XP3YWvAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:21] "GET /socket.io/?EIO=4&transport=polling&t=OganSz6.0&sid=BNX_4_nU31XP3YWvAAAC HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:12:21] "GET /socket.io/?EIO=4&transport=polling&t=OganSzL&sid=BNX_4_nU31XP3YWvAAAC HTTP/1.1" 200 -
+INFO:root:Received message: what time is the spanish bus?
+INFO:root:Received query: what time is the spanish bus?
+INFO:root:Generated text: There is no Spanish bus.
+INFO:werkzeug: * Detected change in '/Users/kk/Desktop/STAGING/KK-AI-ChatBot/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:13:35] "GET /socket.io/?EIO=4&transport=polling&t=Oganksc HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:13:35] "POST /socket.io/?EIO=4&transport=polling&t=Oganksg&sid=FaaAMueLDzJqXll_AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:13:35] "GET /socket.io/?EIO=4&transport=polling&t=Oganksh&sid=FaaAMueLDzJqXll_AAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:13:35] "GET /socket.io/?EIO=4&transport=polling&t=Oganksk&sid=FaaAMueLDzJqXll_AAAA HTTP/1.1" 200 -
+INFO:root:Initializing database...
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:root:Initializing database...
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 791-104-584
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:17:34] "GET /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:17:34] "GET /socket.io/?EIO=4&transport=polling&t=OgaofEN HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:17:34] "POST /socket.io/?EIO=4&transport=polling&t=OgaofEd&sid=36ocwFedtTAXh5zcAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:17:34] "GET /socket.io/?EIO=4&transport=polling&t=OgaofEd.0&sid=36ocwFedtTAXh5zcAAAA HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2023 16:17:34] "GET /socket.io/?EIO=4&transport=polling&t=OgaofEo&sid=36ocwFedtTAXh5zcAAAA HTTP/1.1" 200 -
+INFO:root:Received message: hi what time is the spanish bus?
+INFO:root:Received query: hi what time is the spanish bus?
+INFO:root:Generated text: The Spanish bus usually arrives at the bus stop around 9:00 a.m.

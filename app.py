@@ -14,7 +14,7 @@ logging.basicConfig(filename='app.log', level=logging.INFO)
 nlp = spacy.load("en_core_web_sm")
 
 # Initialize GPT client (Note: Replace the key with your own API key, this is a placeholder)
-openai.api_key = "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"
+openai.api_key = ""
 
 app = Flask(__name__)
 CORS(app)
